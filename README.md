@@ -1,2 +1,0 @@
-# zans-api
-Source Code
